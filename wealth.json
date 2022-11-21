@@ -1,0 +1,1712 @@
+{
+	"1": {
+		"code": "us",
+		"country": "United States",
+		"now": 145793,
+		"now-pc": 431979.93,
+		"wealth21": 145793,
+		"wealth21-22": 7668.2,
+		"wealthpc21": 431979.93,
+		"wealthpc21-22": 20600.86
+	},
+	"2": {
+		"code": "cn",
+		"country": "China",
+		"now": 85107,
+		"now-pc": 59685.45,
+		"wealth21": 85107,
+		"wealth21-22": 6615.8,
+		"wealthpc21": 59685.45,
+		"wealthpc21-22": 4643.09
+	},
+	"3": {
+		"code": "jp",
+		"country": "Japan",
+		"now": 25692,
+		"now-pc": 206729.56,
+		"wealth21": 25692,
+		"wealth21-22": 665.6,
+		"wealthpc21": 206729.56,
+		"wealthpc21-22": 6476.38
+	},
+	"4": {
+		"code": "de",
+		"country": "Germany",
+		"now": 17489,
+		"now-pc": 209632.9,
+		"wealth21": 17489,
+		"wealth21-22": 1076.2,
+		"wealthpc21": 209632.9,
+		"wealthpc21-22": 13204.14
+	},
+	"5": {
+		"code": "gb",
+		"country": "United Kingdom",
+		"now": 16261,
+		"now-pc": 241281.51,
+		"wealth21": 16261,
+		"wealth21-22": 733.6,
+		"wealthpc21": 241281.51,
+		"wealthpc21-22": 10030.28
+	},
+	"6": {
+		"code": "fr",
+		"country": "France",
+		"now": 16159,
+		"now-pc": 250292.2,
+		"wealth21": 16159,
+		"wealth21-22": 886,
+		"wealthpc21": 250292.2,
+		"wealthpc21-22": 13184.15
+	},
+	"7": {
+		"code": "in",
+		"country": "India",
+		"now": 14225,
+		"now-pc": 10072.08,
+		"wealth21": 14225,
+		"wealth21-22": 867.8,
+		"wealthpc21": 10072.08,
+		"wealthpc21-22": 541.5
+	},
+	"8": {
+		"code": "ca",
+		"country": "Canada",
+		"now": 12362,
+		"now-pc": 322844.79,
+		"wealth21": 12362,
+		"wealth21-22": 928.2,
+		"wealthpc21": 322844.79,
+		"wealthpc21-22": 21302.14
+	},
+	"9": {
+		"code": "it",
+		"country": "Italy",
+		"now": 11512,
+		"now-pc": 194724.57,
+		"wealth21": 11512,
+		"wealth21-22": 274.2,
+		"wealthpc21": 194724.57,
+		"wealthpc21-22": 5192.15
+	},
+	"10": {
+		"code": "au",
+		"country": "Australia",
+		"now": 10649,
+		"now-pc": 408849.55,
+		"wealth21": 10649,
+		"wealth21-22": 736,
+		"wealthpc21": 408849.55,
+		"wealthpc21-22": 23899.16
+	},
+	"11": {
+		"code": "kr",
+		"country": "South Korea",
+		"now": 10149,
+		"now-pc": 195816.92,
+		"wealth21": 10149,
+		"wealth21-22": 783.2,
+		"wealthpc21": 195816.92,
+		"wealthpc21-22": 15218.84
+	},
+	"12": {
+		"code": "es",
+		"country": "Spain",
+		"now": 8431,
+		"now-pc": 177210.42,
+		"wealth21": 8431,
+		"wealth21-22": 440.4,
+		"wealthpc21": 177210.42,
+		"wealthpc21-22": 9394.64
+	},
+	"13": {
+		"code": "tw",
+		"country": "Taiwan",
+		"now": 5878,
+		"now-pc": 246170.18,
+		"wealth21": 5878,
+		"wealth21-22": 281.2,
+		"wealthpc21": 246170.18,
+		"wealthpc21-22": 11439.95
+	},
+	"14": {
+		"code": "nl",
+		"country": "Netherlands",
+		"now": 5422,
+		"now-pc": 309182.77,
+		"wealth21": 5422,
+		"wealth21-22": 437.6,
+		"wealthpc21": 309182.77,
+		"wealthpc21-22": 23910.39
+	},
+	"15": {
+		"code": "ch",
+		"country": "Switzerland",
+		"now": 4878,
+		"now-pc": 559916.2,
+		"wealth21": 4878,
+		"wealth21-22": 286.2,
+		"wealthpc21": 559916.2,
+		"wealthpc21-22": 29004.27
+	},
+	"16": {
+		"code": "mx",
+		"country": "Mexico",
+		"now": 4167,
+		"now-pc": 32804.79,
+		"wealth21": 4167,
+		"wealth21-22": 231.6,
+		"wealthpc21": 32804.79,
+		"wealthpc21-22": 1563.54
+	},
+	"17": {
+		"code": "ru",
+		"country": "Russia",
+		"now": 3789,
+		"now-pc": 26179.33,
+		"wealth21": 3789,
+		"wealth21-22": 335.6,
+		"wealthpc21": 26179.33,
+		"wealthpc21-22": 2326.32
+	},
+	"18": {
+		"code": "hk",
+		"country": "Hong Kong",
+		"now": 3492,
+		"now-pc": 466274.61,
+		"wealth21": 3492,
+		"wealth21-22": 157.6,
+		"wealthpc21": 466274.61,
+		"wealthpc21-22": 21080.74
+	},
+	"19": {
+		"code": "be",
+		"country": "Belgium",
+		"now": 3440,
+		"now-pc": 295515.41,
+		"wealth21": 3440,
+		"wealth21-22": 202.6,
+		"wealthpc21": 295515.41,
+		"wealthpc21-22": 16586.68
+	},
+	"20": {
+		"code": "id",
+		"country": "Indonesia",
+		"now": 3405,
+		"now-pc": 12399.12,
+		"wealth21": 3405,
+		"wealth21-22": 237.6,
+		"wealthpc21": 12399.12,
+		"wealthpc21-22": 780.26
+	},
+	"21": {
+		"code": "br",
+		"country": "Brazil",
+		"now": 3327,
+		"now-pc": 15487.04,
+		"wealth21": 3327,
+		"wealth21-22": 127.4,
+		"wealthpc21": 15487.04,
+		"wealthpc21-22": 520.21
+	},
+	"22": {
+		"code": "se",
+		"country": "Sweden",
+		"now": 2990,
+		"now-pc": 284283.52,
+		"wealth21": 2990,
+		"wealth21-22": 191.8,
+		"wealthpc21": 284283.52,
+		"wealthpc21-22": 16424.58
+	},
+	"23": {
+		"code": "ir",
+		"country": "Iran",
+		"now": 2292,
+		"now-pc": 25969.72,
+		"wealth21": 2292,
+		"wealth21-22": 305.6,
+		"wealthpc21": 25969.72,
+		"wealthpc21-22": 3267.88
+	},
+	"24": {
+		"code": "sa",
+		"country": "Saudi Arabia",
+		"now": 2073,
+		"now-pc": 57365.74,
+		"wealth21": 2073,
+		"wealth21-22": 93.6,
+		"wealthpc21": 57365.74,
+		"wealthpc21-22": 1700.12
+	},
+	"25": {
+		"code": "dk",
+		"country": "Denmark",
+		"now": 1935,
+		"now-pc": 329755.89,
+		"wealth21": 1935,
+		"wealth21-22": 169.2,
+		"wealthpc21": 329755.89,
+		"wealthpc21-22": 27097.08
+	},
+	"26": {
+		"code": "at",
+		"country": "Austria",
+		"now": 1825,
+		"now-pc": 204373.8,
+		"wealth21": 1825,
+		"wealth21-22": 81.4,
+		"wealthpc21": 204373.8,
+		"wealthpc21-22": 8643.26
+	},
+	"27": {
+		"code": "sg",
+		"country": "Singapore",
+		"now": 1766,
+		"now-pc": 296512.65,
+		"wealth21": 1766,
+		"wealth21-22": 130.2,
+		"wealthpc21": 296512.65,
+		"wealthpc21-22": 19759.15
+	},
+	"28": {
+		"code": "nz",
+		"country": "New Zealand",
+		"now": 1716,
+		"now-pc": 332320.88,
+		"wealth21": 1716,
+		"wealth21-22": 132,
+		"wealthpc21": 332320.88,
+		"wealthpc21-22": 22593.27
+	},
+	"29": {
+		"code": "il",
+		"country": "Israel",
+		"now": 1564,
+		"now-pc": 174344.73,
+		"wealth21": 1564,
+		"wealth21-22": 136.6,
+		"wealthpc21": 174344.73,
+		"wealthpc21-22": 12413.62
+	},
+	"30": {
+		"code": "pl",
+		"country": "Poland",
+		"now": 1525,
+		"now-pc": 39883.17,
+		"wealth21": 1525,
+		"wealth21-22": 102,
+		"wealthpc21": 39883.17,
+		"wealthpc21-22": -657.18
+	},
+	"31": {
+		"code": "no",
+		"country": "Norway",
+		"now": 1413,
+		"now-pc": 260974.65,
+		"wealth21": 1413,
+		"wealth21-22": 80.8,
+		"wealthpc21": 260974.65,
+		"wealthpc21-22": 12900.05
+	},
+	"32": {
+		"code": "eg",
+		"country": "Egypt",
+		"now": 1405,
+		"now-pc": 12757.33,
+		"wealth21": 1405,
+		"wealth21-22": 67.6,
+		"wealthpc21": 12757.33,
+		"wealthpc21-22": 408.83
+	},
+	"33": {
+		"code": "th",
+		"country": "Thailand",
+		"now": 1341,
+		"now-pc": 18718.53,
+		"wealth21": 1341,
+		"wealth21-22": 78.6,
+		"wealthpc21": 18718.53,
+		"wealthpc21-22": 1065.79
+	},
+	"34": {
+		"code": "pt",
+		"country": "Portugal",
+		"now": 1287,
+		"now-pc": 125167.5,
+		"wealth21": 1287,
+		"wealth21-22": 75.8,
+		"wealthpc21": 125167.5,
+		"wealthpc21-22": 7665.38
+	},
+	"35": {
+		"code": "tr",
+		"country": "Turkey",
+		"now": 1142,
+		"now-pc": 13420.83,
+		"wealth21": 1142,
+		"wealth21-22": -53.6,
+		"wealthpc21": 13420.83,
+		"wealthpc21-22": -704.51
+	},
+	"36": {
+		"code": "bd",
+		"country": "Bangladesh",
+		"now": 1026,
+		"now-pc": 6024.75,
+		"wealth21": 1026,
+		"wealth21-22": 81.6,
+		"wealthpc21": 6024.75,
+		"wealthpc21-22": 411.98
+	},
+	"37": {
+		"code": "ae",
+		"country": "United Arab Emirates",
+		"now": 994,
+		"now-pc": 105708.01,
+		"wealth21": 994,
+		"wealth21-22": 3.8,
+		"wealthpc21": 105708.01,
+		"wealthpc21-22": -443.7
+	},
+	"38": {
+		"code": "ph",
+		"country": "Philippines",
+		"now": 992,
+		"now-pc": 8651.19,
+		"wealth21": 992,
+		"wealth21-22": 66.4,
+		"wealthpc21": 8651.19,
+		"wealthpc21-22": 437.56
+	},
+	"39": {
+		"code": "vn",
+		"country": "Viet Nam",
+		"now": 985,
+		"now-pc": 10067.22,
+		"wealth21": 985,
+		"wealth21-22": 77.8,
+		"wealthpc21": 10067.22,
+		"wealthpc21-22": 719.18
+	},
+	"40": {
+		"code": "za",
+		"country": "South Africa",
+		"now": 938,
+		"now-pc": 15725.91,
+		"wealth21": 938,
+		"wealth21-22": 61,
+		"wealthpc21": 15725.91,
+		"wealthpc21-22": 885.07
+	},
+	"41": {
+		"code": "ie",
+		"country": "Ireland",
+		"now": 920,
+		"now-pc": 183783.58,
+		"wealth21": 920,
+		"wealth21-22": 39.4,
+		"wealthpc21": 183783.58,
+		"wealthpc21-22": 6561.14
+	},
+	"42": {
+		"code": "gr",
+		"country": "Greece",
+		"now": 914,
+		"now-pc": 87803.46,
+		"wealth21": 914,
+		"wealth21-22": 18,
+		"wealthpc21": 87803.46,
+		"wealthpc21-22": 2155.06
+	},
+	"43": {
+		"code": "fi",
+		"country": "Finland",
+		"now": 817,
+		"now-pc": 147519.18,
+		"wealth21": 817,
+		"wealth21-22": 42,
+		"wealthpc21": 147519.18,
+		"wealthpc21-22": 7444.68
+	},
+	"44": {
+		"code": "pk",
+		"country": "Pakistan",
+		"now": 790,
+		"now-pc": 3382.96,
+		"wealth21": 790,
+		"wealth21-22": 50.8,
+		"wealthpc21": 3382.96,
+		"wealthpc21-22": 147.95
+	},
+	"45": {
+		"code": "cl",
+		"country": "Chile",
+		"now": 785,
+		"now-pc": 40066.5,
+		"wealth21": 785,
+		"wealth21-22": 26,
+		"wealthpc21": 40066.5,
+		"wealthpc21-22": 1279.33
+	},
+	"46": {
+		"code": "ng",
+		"country": "Nigeria",
+		"now": 752,
+		"now-pc": 3482.64,
+		"wealth21": 752,
+		"wealth21-22": 91.2,
+		"wealthpc21": 3482.64,
+		"wealthpc21-22": 330.09
+	},
+	"47": {
+		"code": "cz",
+		"country": "Czechia",
+		"now": 701,
+		"now-pc": 66777.77,
+		"wealth21": 701,
+		"wealth21-22": 51,
+		"wealthpc21": 66777.77,
+		"wealthpc21-22": 4906.36
+	},
+	"48": {
+		"code": "ua",
+		"country": "Ukraine",
+		"now": 679,
+		"now-pc": 15668.92,
+		"wealth21": 679,
+		"wealth21-22": 70.4,
+		"wealthpc21": 15668.92,
+		"wealthpc21-22": 5107.77
+	},
+	"49": {
+		"code": "ro",
+		"country": "Romania",
+		"now": 640,
+		"now-pc": 33224.71,
+		"wealth21": 640,
+		"wealth21-22": 37.8,
+		"wealthpc21": 33224.71,
+		"wealthpc21-22": 571.07
+	},
+	"50": {
+		"code": "co",
+		"country": "Colombia",
+		"now": 616,
+		"now-pc": 11894.46,
+		"wealth21": 616,
+		"wealth21-22": 23.4,
+		"wealthpc21": 11894.46,
+		"wealthpc21-22": 411.35
+	},
+	"51": {
+		"code": "my",
+		"country": "Malaysia",
+		"now": 615,
+		"now-pc": 18221.47,
+		"wealth21": 615,
+		"wealth21-22": 29.8,
+		"wealthpc21": 18221.47,
+		"wealthpc21-22": 673.75
+	},
+	"52": {
+		"code": "hu",
+		"country": "Hungary",
+		"now": 547,
+		"now-pc": 56458.41,
+		"wealth21": 547,
+		"wealth21-22": 37.2,
+		"wealthpc21": 56458.41,
+		"wealthpc21-22": 558.58
+	},
+	"53": {
+		"code": "kw",
+		"country": "Kuwait",
+		"now": 545,
+		"now-pc": 128304.73,
+		"wealth21": 545,
+		"wealth21-22": 14.8,
+		"wealthpc21": 128304.73,
+		"wealthpc21-22": 2183.38
+	},
+	"54": {
+		"code": "ve",
+		"country": "Venezuela",
+		"now": 531,
+		"now-pc": 18932.06,
+		"wealth21": 531,
+		"wealth21-22": -111,
+		"wealthpc21": 18932.06,
+		"wealthpc21-22": -4223.98
+	},
+	"55": {
+		"code": "kz",
+		"country": "Kazakhstan",
+		"now": 523,
+		"now-pc": 27104.76,
+		"wealth21": 523,
+		"wealth21-22": 32.2,
+		"wealthpc21": 27104.76,
+		"wealthpc21-22": 1366.31
+	},
+	"56": {
+		"code": "pe",
+		"country": "Peru",
+		"now": 477,
+		"now-pc": 14065.94,
+		"wealth21": 477,
+		"wealth21-22": 34.6,
+		"wealthpc21": 14065.94,
+		"wealthpc21-22": 898.61
+	},
+	"57": {
+		"code": "qa",
+		"country": "Qatar",
+		"now": 445,
+		"now-pc": 165776.94,
+		"wealth21": 445,
+		"wealth21-22": 16.4,
+		"wealthpc21": 165776.94,
+		"wealthpc21-22": 4738.46
+	},
+	"58": {
+		"code": "lk",
+		"country": "Sri Lanka",
+		"now": 401,
+		"now-pc": 18394.59,
+		"wealth21": 401,
+		"wealth21-22": 23,
+		"wealthpc21": 18394.59,
+		"wealthpc21-22": 997.66
+	},
+	"59": {
+		"code": "ma",
+		"country": "Morocco",
+		"now": 374,
+		"now-pc": 10036.37,
+		"wealth21": 374,
+		"wealth21-22": 24.8,
+		"wealthpc21": 10036.37,
+		"wealthpc21-22": 555.51
+	},
+	"60": {
+		"code": "iq",
+		"country": "Iraq",
+		"now": 371,
+		"now-pc": 8432.55,
+		"wealth21": 371,
+		"wealth21-22": 27,
+		"wealthpc21": 8432.55,
+		"wealthpc21-22": 412.66
+	},
+	"61": {
+		"code": "ke",
+		"country": "Kenya",
+		"now": 369,
+		"now-pc": 6897.21,
+		"wealth21": 369,
+		"wealth21-22": 38.2,
+		"wealthpc21": 6897.21,
+		"wealthpc21-22": 566.8
+	},
+	"62": {
+		"code": "lb",
+		"country": "Lebanon",
+		"now": 345,
+		"now-pc": 62118.1,
+		"wealth21": 345,
+		"wealth21-22": 28.2,
+		"wealthpc21": 62118.1,
+		"wealthpc21-22": 6667.66
+	},
+	"63": {
+		"code": "lu",
+		"country": "Luxembourg",
+		"now": 332,
+		"now-pc": 515590.4,
+		"wealth21": 332,
+		"wealth21-22": 20.4,
+		"wealthpc21": 515590.4,
+		"wealthpc21-22": 25501.24
+	},
+	"64": {
+		"code": "ar",
+		"country": "Argentina",
+		"now": 326,
+		"now-pc": 7182.21,
+		"wealth21": 326,
+		"wealth21-22": -32.8,
+		"wealthpc21": 7182.21,
+		"wealthpc21-22": -756.71
+	},
+	"65": {
+		"code": "dz",
+		"country": "Algeria",
+		"now": 284,
+		"now-pc": 6375.78,
+		"wealth21": 284,
+		"wealth21-22": 15.4,
+		"wealthpc21": 6375.78,
+		"wealthpc21-22": 238.92
+	},
+	"66": {
+		"code": "sk",
+		"country": "Slovakia",
+		"now": 276,
+		"now-pc": 50740.56,
+		"wealth21": 276,
+		"wealth21-22": 20.6,
+		"wealthpc21": 50740.56,
+		"wealthpc21-22": -17.78
+	},
+	"67": {
+		"code": "mm",
+		"country": "Myanmar",
+		"now": 258,
+		"now-pc": 4779.75,
+		"wealth21": 258,
+		"wealth21-22": 29.6,
+		"wealthpc21": 4779.75,
+		"wealthpc21-22": 508.88
+	},
+	"68": {
+		"code": "bg",
+		"country": "Bulgaria",
+		"now": 241,
+		"now-pc": 35266.81,
+		"wealth21": 241,
+		"wealth21-22": 16.8,
+		"wealthpc21": 35266.81,
+		"wealthpc21-22": 3037.66
+	},
+	"69": {
+		"code": "ec",
+		"country": "Ecuador",
+		"now": 238,
+		"now-pc": 13292.05,
+		"wealth21": 238,
+		"wealth21-22": 14.8,
+		"wealthpc21": 13292.05,
+		"wealthpc21-22": 677.47
+	},
+	"70": {
+		"code": "et",
+		"country": "Ethiopia",
+		"now": 228,
+		"now-pc": 1871.57,
+		"wealth21": 228,
+		"wealth21-22": 20.6,
+		"wealthpc21": 1871.57,
+		"wealthpc21-22": 118.22
+	},
+	"71": {
+		"code": "hr",
+		"country": "Croatia",
+		"now": 224,
+		"now-pc": 55429.48,
+		"wealth21": 224,
+		"wealth21-22": 9.4,
+		"wealthpc21": 55429.48,
+		"wealthpc21-22": 2636.81
+	},
+	"72": {
+		"code": "by",
+		"country": "Belarus",
+		"now": 193,
+		"now-pc": 20209.64,
+		"wealth21": 193,
+		"wealth21-22": 22.8,
+		"wealthpc21": 20209.64,
+		"wealthpc21-22": 2458.4
+	},
+	"73": {
+		"code": "jo",
+		"country": "Jordan",
+		"now": 184,
+		"now-pc": 16346.56,
+		"wealth21": 184,
+		"wealth21-22": 12,
+		"wealthpc21": 16346.56,
+		"wealthpc21-22": 974.74
+	},
+	"74": {
+		"code": "rs",
+		"country": "Serbia",
+		"now": 179,
+		"now-pc": 24650.25,
+		"wealth21": 179,
+		"wealth21-22": 14,
+		"wealthpc21": 24650.25,
+		"wealthpc21-22": 2225.71
+	},
+	"75": {
+		"code": "si",
+		"country": "Slovenia",
+		"now": 179,
+		"now-pc": 84442.37,
+		"wealth21": 179,
+		"wealth21-22": 11.2,
+		"wealthpc21": 84442.37,
+		"wealthpc21-22": 5278.89
+	},
+	"76": {
+		"code": "tn",
+		"country": "Tunisia",
+		"now": 174,
+		"now-pc": 14136.35,
+		"wealth21": 174,
+		"wealth21-22": 9.8,
+		"wealthpc21": 14136.35,
+		"wealthpc21-22": 682.01
+	},
+	"77": {
+		"code": "cr",
+		"country": "Costa Rica",
+		"now": 171,
+		"now-pc": 33094.24,
+		"wealth21": 171,
+		"wealth21-22": 11.8,
+		"wealthpc21": 33094.24,
+		"wealthpc21-22": 2096.19
+	},
+	"78": {
+		"code": "sv",
+		"country": "El Salvador",
+		"now": 164,
+		"now-pc": 25933.79,
+		"wealth21": 164,
+		"wealth21-22": 13.2,
+		"wealthpc21": 25933.79,
+		"wealthpc21-22": 1976.16
+	},
+	"79": {
+		"code": "om",
+		"country": "Oman",
+		"now": 156,
+		"now-pc": 34336.42,
+		"wealth21": 156,
+		"wealth21-22": 2.2,
+		"wealthpc21": 34336.42,
+		"wealthpc21-22": -14.62
+	},
+	"80": {
+		"code": "uy",
+		"country": "Uruguay",
+		"now": 147,
+		"now-pc": 42949.59,
+		"wealth21": 147,
+		"wealth21-22": 1.8,
+		"wealthpc21": 42949.59,
+		"wealthpc21-22": 521.43
+	},
+	"81": {
+		"code": "pa",
+		"country": "Panama",
+		"now": 145,
+		"now-pc": 33110.45,
+		"wealth21": 145,
+		"wealth21-22": 11,
+		"wealthpc21": 33110.45,
+		"wealthpc21-22": 2041.48
+	},
+	"82": {
+		"code": "lt",
+		"country": "Lithuania",
+		"now": 136,
+		"now-pc": 49121.09,
+		"wealth21": 136,
+		"wealth21-22": 10.4,
+		"wealthpc21": 49121.09,
+		"wealthpc21-22": 4476.97
+	},
+	"83": {
+		"code": "bh",
+		"country": "Bahrain",
+		"now": 132,
+		"now-pc": 90063.9,
+		"wealth21": 132,
+		"wealth21-22": 8.4,
+		"wealthpc21": 90063.9,
+		"wealthpc21-22": 4875.37
+	},
+	"84": {
+		"code": "gh",
+		"country": "Ghana",
+		"now": 130,
+		"now-pc": 3921.04,
+		"wealth21": 130,
+		"wealth21-22": 12.4,
+		"wealthpc21": 3921.04,
+		"wealthpc21-22": 292.33
+	},
+	"85": {
+		"code": "lv",
+		"country": "Latvia",
+		"now": 127,
+		"now-pc": 68243.69,
+		"wealth21": 127,
+		"wealth21-22": 9.2,
+		"wealthpc21": 68243.69,
+		"wealthpc21-22": 5765.02
+	},
+	"86": {
+		"code": "ye",
+		"country": "Yemen",
+		"now": 123,
+		"now-pc": 3691.22,
+		"wealth21": 123,
+		"wealth21-22": 14,
+		"wealthpc21": 3691.22,
+		"wealthpc21-22": 329.81
+	},
+	"87": {
+		"code": "tz",
+		"country": "Tanzania",
+		"now": 122,
+		"now-pc": 1890.31,
+		"wealth21": 122,
+		"wealth21-22": 12,
+		"wealthpc21": 1890.31,
+		"wealthpc21-22": 126.06
+	},
+	"88": {
+		"code": "is",
+		"country": "Iceland",
+		"now": 118,
+		"now-pc": 317484.23,
+		"wealth21": 118,
+		"wealth21-22": 8,
+		"wealthpc21": 317484.23,
+		"wealthpc21-22": 19301.6
+	},
+	"89": {
+		"code": "az",
+		"country": "Azerbaijan",
+		"now": 115,
+		"now-pc": 11133.04,
+		"wealth21": 115,
+		"wealth21-22": 4.2,
+		"wealthpc21": 11133.04,
+		"wealthpc21-22": 343.35
+	},
+	"90": {
+		"code": "cy",
+		"country": "Cyprus",
+		"now": 103,
+		"now-pc": 82592.94,
+		"wealth21": 103,
+		"wealth21-22": 7,
+		"wealthpc21": 82592.94,
+		"wealthpc21-22": 4993.86
+	},
+	"91": {
+		"code": "bo",
+		"country": "Bolivia",
+		"now": 102,
+		"now-pc": 8395.78,
+		"wealth21": 102,
+		"wealth21-22": 6.8,
+		"wealthpc21": 8395.78,
+		"wealthpc21-22": 450.29
+	},
+	"92": {
+		"code": "ba",
+		"country": "Bosnia and Herzegovina",
+		"now": 87,
+		"now-pc": 26801.85,
+		"wealth21": 87,
+		"wealth21-22": 5,
+		"wealthpc21": 26801.85,
+		"wealthpc21-22": 1760.64
+	},
+	"93": {
+		"code": "ee",
+		"country": "Estonia",
+		"now": 80,
+		"now-pc": 60259.11,
+		"wealth21": 80,
+		"wealth21-22": 6.2,
+		"wealthpc21": 60259.11,
+		"wealthpc21-22": 4820.87
+	},
+	"94": {
+		"code": "al",
+		"country": "Albania",
+		"now": 78,
+		"now-pc": 27389.05,
+		"wealth21": 78,
+		"wealth21-22": 4.4,
+		"wealthpc21": 27389.05,
+		"wealthpc21-22": 1657.87
+	},
+	"95": {
+		"code": "np",
+		"country": "Nepal",
+		"now": 78,
+		"now-pc": 2568.16,
+		"wealth21": 78,
+		"wealth21-22": 7.8,
+		"wealthpc21": 2568.16,
+		"wealthpc21-22": 224.52
+	},
+	"96": {
+		"code": "tm",
+		"country": "Turkmenistan",
+		"now": 78,
+		"now-pc": 12211.92,
+		"wealth21": 78,
+		"wealth21-22": 8,
+		"wealthpc21": 12211.92,
+		"wealthpc21-22": 1071.28
+	},
+	"97": {
+		"code": "zw",
+		"country": "Zimbabwe",
+		"now": 71,
+		"now-pc": 4395.48,
+		"wealth21": 71,
+		"wealth21-22": 9.2,
+		"wealthpc21": 4395.48,
+		"wealthpc21-22": 468.62
+	},
+	"98": {
+		"code": "kh",
+		"country": "Cambodia",
+		"now": 65,
+		"now-pc": 3896.74,
+		"wealth21": 65,
+		"wealth21-22": 5.4,
+		"wealthpc21": 3896.74,
+		"wealthpc21-22": 280.04
+	},
+	"99": {
+		"code": "mu",
+		"country": "Mauritius",
+		"now": 63,
+		"now-pc": 48493.84,
+		"wealth21": 63,
+		"wealth21-22": 3.6,
+		"wealthpc21": 48493.84,
+		"wealthpc21-22": 2744.65
+	},
+	"100": {
+		"code": "cd",
+		"country": "DR Congo",
+		"now": 59,
+		"now-pc": 605.66,
+		"wealth21": 59,
+		"wealth21-22": 4.4,
+		"wealthpc21": 605.66,
+		"wealthpc21-22": 24.51
+	},
+	"101": {
+		"code": "md",
+		"country": "Moldova",
+		"now": 59,
+		"now-pc": 19354.78,
+		"wealth21": 59,
+		"wealth21-22": 6.4,
+		"wealthpc21": 19354.78,
+		"wealthpc21-22": -656.5
+	},
+	"102": {
+		"code": "mt",
+		"country": "Malta",
+		"now": 58,
+		"now-pc": 108945.76,
+		"wealth21": 58,
+		"wealth21-22": 3.4,
+		"wealthpc21": 108945.76,
+		"wealthpc21-22": 5993.11
+	},
+	"103": {
+		"code": "ni",
+		"country": "Nicaragua",
+		"now": 57,
+		"now-pc": 8262.07,
+		"wealth21": 57,
+		"wealth21-22": 4.2,
+		"wealthpc21": 8262.07,
+		"wealthpc21-22": 483.54
+	},
+	"104": {
+		"code": "ao",
+		"country": "Angola",
+		"now": 55,
+		"now-pc": 1569.21,
+		"wealth21": 55,
+		"wealth21-22": -6.4,
+		"wealthpc21": 1569.21,
+		"wealthpc21-22": -224
+	},
+	"105": {
+		"code": "py",
+		"country": "Paraguay",
+		"now": 55,
+		"now-pc": 8156.31,
+		"wealth21": 55,
+		"wealth21-22": 2.4,
+		"wealthpc21": 8156.31,
+		"wealthpc21-22": 262.29
+	},
+	"106": {
+		"code": "tt",
+		"country": "Trinidad and Tobago",
+		"now": 51,
+		"now-pc": 33356.62,
+		"wealth21": 51,
+		"wealth21-22": 3,
+		"wealthpc21": 33356.62,
+		"wealthpc21-22": 1864.82
+	},
+	"107": {
+		"code": "ug",
+		"country": "Uganda",
+		"now": 49,
+		"now-pc": 1051.86,
+		"wealth21": 49,
+		"wealth21-22": 5.2,
+		"wealthpc21": 1051.86,
+		"wealthpc21-22": 79.31
+	},
+	"108": {
+		"code": "am",
+		"country": "Armenia",
+		"now": 47,
+		"now-pc": 16886.88,
+		"wealth21": 47,
+		"wealth21-22": 3.6,
+		"wealthpc21": 16886.88,
+		"wealthpc21-22": 1329.55
+	},
+	"109": {
+		"code": "cm",
+		"country": "Cameroon",
+		"now": 46,
+		"now-pc": 1669.56,
+		"wealth21": 46,
+		"wealth21-22": 3.2,
+		"wealthpc21": 1669.56,
+		"wealthpc21-22": 70.38
+	},
+	"110": {
+		"code": "ge",
+		"country": "Georgia",
+		"now": 46,
+		"now-pc": 12255.82,
+		"wealth21": 46,
+		"wealth21-22": 3.2,
+		"wealthpc21": 12255.82,
+		"wealthpc21-22": 915.28
+	},
+	"111": {
+		"code": "jm",
+		"country": "Jamaica",
+		"now": 45,
+		"now-pc": 15906.73,
+		"wealth21": 45,
+		"wealth21-22": 0.6,
+		"wealthpc21": 15906.73,
+		"wealthpc21-22": 230.5
+	},
+	"112": {
+		"code": "ly",
+		"country": "Libya",
+		"now": 44,
+		"now-pc": 6494.75,
+		"wealth21": 44,
+		"wealth21-22": -1,
+		"wealthpc21": 6494.75,
+		"wealthpc21-22": -217.37
+	},
+	"113": {
+		"code": "pg",
+		"country": "Papua New Guinea",
+		"now": 43,
+		"now-pc": 4279.28,
+		"wealth21": 43,
+		"wealth21-22": 3,
+		"wealthpc21": 4279.28,
+		"wealthpc21-22": 214.3
+	},
+	"114": {
+		"code": "af",
+		"country": "Afghanistan",
+		"now": 41,
+		"now-pc": 1010.34,
+		"wealth21": 41,
+		"wealth21-22": 3,
+		"wealthpc21": 1010.34,
+		"wealthpc21-22": 45.4
+	},
+	"115": {
+		"code": "sn",
+		"country": "Senegal",
+		"now": 41,
+		"now-pc": 2398.13,
+		"wealth21": 41,
+		"wealth21-22": 4.2,
+		"wealthpc21": 2398.13,
+		"wealthpc21-22": 179.39
+	},
+	"116": {
+		"code": "me",
+		"country": "Montenegro",
+		"now": 36,
+		"now-pc": 57369.42,
+		"wealth21": 36,
+		"wealth21-22": 2.4,
+		"wealthpc21": 57369.42,
+		"wealthpc21-22": 3908.51
+	},
+	"117": {
+		"code": "la",
+		"country": "Laos",
+		"now": 35,
+		"now-pc": 4681.04,
+		"wealth21": 35,
+		"wealth21-22": 2.6,
+		"wealthpc21": 4681.04,
+		"wealthpc21-22": 278.09
+	},
+	"118": {
+		"code": "na",
+		"country": "Namibia",
+		"now": 31,
+		"now-pc": 12160.76,
+		"wealth21": 31,
+		"wealth21-22": 2.2,
+		"wealthpc21": 12160.76,
+		"wealthpc21-22": 683.34
+	},
+	"119": {
+		"code": "mg",
+		"country": "Madagascar",
+		"now": 30,
+		"now-pc": 1025.29,
+		"wealth21": 30,
+		"wealth21-22": 2.8,
+		"wealthpc21": 1025.29,
+		"wealthpc21-22": 69.38
+	},
+	"120": {
+		"code": "rw",
+		"country": "Rwanda",
+		"now": 28,
+		"now-pc": 2056.04,
+		"wealth21": 28,
+		"wealth21-22": 1.8,
+		"wealthpc21": 2056.04,
+		"wealthpc21-22": 82.45
+	},
+	"121": {
+		"code": "bw",
+		"country": "Botswana",
+		"now": 27,
+		"now-pc": 10354.42,
+		"wealth21": 27,
+		"wealth21-22": 2.2,
+		"wealthpc21": 10354.42,
+		"wealthpc21-22": 651.95
+	},
+	"122": {
+		"code": "zm",
+		"country": "Zambia",
+		"now": 27,
+		"now-pc": 1367.38,
+		"wealth21": 27,
+		"wealth21-22": 1.2,
+		"wealthpc21": 1367.38,
+		"wealthpc21-22": 22.49
+	},
+	"123": {
+		"code": "gn",
+		"country": "Guinea",
+		"now": 25,
+		"now-pc": 1825.47,
+		"wealth21": 25,
+		"wealth21-22": 3.2,
+		"wealthpc21": 1825.47,
+		"wealthpc21-22": 185.43
+	},
+	"124": {
+		"code": "kg",
+		"country": "Kyrgyzstan",
+		"now": 25,
+		"now-pc": 3800.51,
+		"wealth21": 25,
+		"wealth21-22": 1.8,
+		"wealthpc21": 3800.51,
+		"wealthpc21-22": 209.56
+	},
+	"125": {
+		"code": "tj",
+		"country": "Tajikistan",
+		"now": 25,
+		"now-pc": 2536.39,
+		"wealth21": 25,
+		"wealth21-22": 1.6,
+		"wealthpc21": 2536.39,
+		"wealthpc21-22": 110.63
+	},
+	"126": {
+		"code": "ga",
+		"country": "Gabon",
+		"now": 23,
+		"now-pc": 9724.31,
+		"wealth21": 23,
+		"wealth21-22": 0.8,
+		"wealthpc21": 9724.31,
+		"wealthpc21-22": 139.84
+	},
+	"127": {
+		"code": "ml",
+		"country": "Mali",
+		"now": 23,
+		"now-pc": 1033.77,
+		"wealth21": 23,
+		"wealth21-22": 2.2,
+		"wealthpc21": 1033.77,
+		"wealthpc21-22": 64.82
+	},
+	"128": {
+		"code": "mw",
+		"country": "Malawi",
+		"now": 22,
+		"now-pc": 1092.02,
+		"wealth21": 22,
+		"wealth21-22": 2.8,
+		"wealthpc21": 1092.02,
+		"wealthpc21-22": 108.12
+	},
+	"129": {
+		"code": "gq",
+		"country": "Equatorial Guinea",
+		"now": 20,
+		"now-pc": 12083.08,
+		"wealth21": 20,
+		"wealth21-22": 1.6,
+		"wealthpc21": 12083.08,
+		"wealthpc21-22": 663.22
+	},
+	"130": {
+		"code": "bj",
+		"country": "Benin",
+		"now": 18,
+		"now-pc": 1366.29,
+		"wealth21": 18,
+		"wealth21-22": 1.8,
+		"wealthpc21": 1366.29,
+		"wealthpc21-22": 96.98
+	},
+	"131": {
+		"code": "bn",
+		"country": "Brunei",
+		"now": 18,
+		"now-pc": 40251.44,
+		"wealth21": 18,
+		"wealth21-22": 1.6,
+		"wealthpc21": 40251.44,
+		"wealthpc21-22": 3225.47
+	},
+	"132": {
+		"code": "sy",
+		"country": "Syria",
+		"now": 18,
+		"now-pc": 833.74,
+		"wealth21": 18,
+		"wealth21-22": 0.2,
+		"wealthpc21": 833.74,
+		"wealthpc21-22": -30.59
+	},
+	"133": {
+		"code": "bs",
+		"country": "Bahamas",
+		"now": 17,
+		"now-pc": 41600.7,
+		"wealth21": 17,
+		"wealth21-22": 0.8,
+		"wealthpc21": 41600.7,
+		"wealthpc21-22": 1674.51
+	},
+	"134": {
+		"code": "bb",
+		"country": "Barbados",
+		"now": 16,
+		"now-pc": 56850.48,
+		"wealth21": 16,
+		"wealth21-22": 1,
+		"wealthpc21": 56850.48,
+		"wealthpc21-22": 3469.57
+	},
+	"135": {
+		"code": "bf",
+		"country": "Burkina Faso",
+		"now": 16,
+		"now-pc": 714.67,
+		"wealth21": 16,
+		"wealth21-22": 1.6,
+		"wealthpc21": 714.67,
+		"wealthpc21-22": 51.9
+	},
+	"136": {
+		"code": "mz",
+		"country": "Mozambique",
+		"now": 16,
+		"now-pc": 492.03,
+		"wealth21": 16,
+		"wealth21-22": 1.8,
+		"wealthpc21": 492.03,
+		"wealthpc21-22": 40.58
+	},
+	"137": {
+		"code": "mn",
+		"country": "Mongolia",
+		"now": 15,
+		"now-pc": 4446.61,
+		"wealth21": 15,
+		"wealth21-22": 1,
+		"wealthpc21": 4446.61,
+		"wealthpc21-22": 227.14
+	},
+	"138": {
+		"code": "lr",
+		"country": "Liberia",
+		"now": 14,
+		"now-pc": 2668.77,
+		"wealth21": 14,
+		"wealth21-22": 0.6,
+		"wealthpc21": 2668.77,
+		"wealthpc21-22": 55.36
+	},
+	"139": {
+		"code": "ne",
+		"country": "Niger",
+		"now": 14,
+		"now-pc": 544.33,
+		"wealth21": 14,
+		"wealth21-22": 1.4,
+		"wealthpc21": 544.33,
+		"wealthpc21-22": 32.54
+	},
+	"140": {
+		"code": "fj",
+		"country": "Fiji",
+		"now": 12,
+		"now-pc": 12952.45,
+		"wealth21": 12,
+		"wealth21-22": 0.6,
+		"wealthpc21": 12952.45,
+		"wealthpc21-22": 551.42
+	},
+	"141": {
+		"code": "td",
+		"country": "Chad",
+		"now": 10,
+		"now-pc": 573.09,
+		"wealth21": 10,
+		"wealth21-22": 0.6,
+		"wealthpc21": 573.09,
+		"wealthpc21-22": 15.88
+	},
+	"142": {
+		"code": "ht",
+		"country": "Haiti",
+		"now": 9,
+		"now-pc": 781.52,
+		"wealth21": 9,
+		"wealth21-22": 0.6,
+		"wealthpc21": 781.52,
+		"wealthpc21-22": 42.24
+	},
+	"143": {
+		"code": "mv",
+		"country": "Maldives",
+		"now": 9,
+		"now-pc": 17145.18,
+		"wealth21": 9,
+		"wealth21-22": 0.8,
+		"wealthpc21": 17145.18,
+		"wealthpc21-22": 1605.6
+	},
+	"144": {
+		"code": "gy",
+		"country": "Guyana",
+		"now": 7,
+		"now-pc": 8678.7,
+		"wealth21": 7,
+		"wealth21-22": 0.2,
+		"wealthpc21": 8678.7,
+		"wealthpc21-22": 200.55
+	},
+	"145": {
+		"code": "mr",
+		"country": "Mauritania",
+		"now": 7,
+		"now-pc": 1497.75,
+		"wealth21": 7,
+		"wealth21-22": 0.6,
+		"wealthpc21": 1497.75,
+		"wealthpc21-22": 86.04
+	},
+	"146": {
+		"code": "sb",
+		"country": "Solomon Islands",
+		"now": 6,
+		"now-pc": 8377.34,
+		"wealth21": 6,
+		"wealth21-22": 0.6,
+		"wealthpc21": 8377.34,
+		"wealthpc21-22": 635.03
+	},
+	"147": {
+		"code": "tg",
+		"country": "Togo",
+		"now": 6,
+		"now-pc": 685.97,
+		"wealth21": 6,
+		"wealth21-22": 0.4,
+		"wealthpc21": 685.97,
+		"wealthpc21-22": 29.06
+	},
+	"148": {
+		"code": "cg",
+		"country": "Congo",
+		"now": 5,
+		"now-pc": 847.09,
+		"wealth21": 5,
+		"wealth21-22": -1,
+		"wealthpc21": 847.09,
+		"wealthpc21-22": -184.65
+	},
+	"149": {
+		"code": "er",
+		"country": "Eritrea",
+		"now": 5,
+		"now-pc": 1368.91,
+		"wealth21": 5,
+		"wealth21-22": 0.4,
+		"wealthpc21": 1368.91,
+		"wealthpc21-22": 84.45
+	},
+	"150": {
+		"code": "aw",
+		"country": "Aruba",
+		"now": 4,
+		"now-pc": 37533.31,
+		"wealth21": 4,
+		"wealth21-22": 0,
+		"wealthpc21": 37533.31,
+		"wealthpc21-22": 89.67
+	},
+	"151": {
+		"code": "bi",
+		"country": "Burundi",
+		"now": 4,
+		"now-pc": 314.57,
+		"wealth21": 4,
+		"wealth21-22": 0.2,
+		"wealthpc21": 314.57,
+		"wealthpc21-22": 6.94
+	},
+	"152": {
+		"code": "gd",
+		"country": "Grenada",
+		"now": 4,
+		"now-pc": 31986.44,
+		"wealth21": 4,
+		"wealth21-22": 0.2,
+		"wealthpc21": 31986.44,
+		"wealthpc21-22": 1394.05
+	},
+	"153": {
+		"code": "sc",
+		"country": "Seychelles",
+		"now": 4,
+		"now-pc": 37422.7,
+		"wealth21": 4,
+		"wealth21-22": 0,
+		"wealthpc21": 37422.7,
+		"wealthpc21-22": -161.4
+	},
+	"154": {
+		"code": "lc",
+		"country": "Saint Lucia",
+		"now": 4,
+		"now-pc": 22252.88,
+		"wealth21": 4,
+		"wealth21-22": 0.2,
+		"wealthpc21": 22252.88,
+		"wealthpc21-22": 1085.25
+	},
+	"155": {
+		"code": "tl",
+		"country": "Timor-Leste",
+		"now": 4,
+		"now-pc": 3003.8,
+		"wealth21": 4,
+		"wealth21-22": 0.4,
+		"wealthpc21": 3003.8,
+		"wealthpc21-22": 253.18
+	},
+	"156": {
+		"code": "bz",
+		"country": "Belize",
+		"now": 3,
+		"now-pc": 7450.7,
+		"wealth21": 3,
+		"wealth21-22": 0.2,
+		"wealthpc21": 7450.7,
+		"wealthpc21-22": 394.4
+	},
+	"157": {
+		"code": "km",
+		"country": "Comoros",
+		"now": 3,
+		"now-pc": 3617.75,
+		"wealth21": 3,
+		"wealth21-22": 0.2,
+		"wealthpc21": 3617.75,
+		"wealthpc21-22": 172.36
+	},
+	"158": {
+		"code": "gm",
+		"country": "Gambia",
+		"now": 3,
+		"now-pc": 1122.38,
+		"wealth21": 3,
+		"wealth21-22": 0.2,
+		"wealthpc21": 1122.38,
+		"wealthpc21-22": 45.89
+	},
+	"159": {
+		"code": "sl",
+		"country": "Sierra Leone",
+		"now": 3,
+		"now-pc": 352.38,
+		"wealth21": 3,
+		"wealth21-22": 0,
+		"wealthpc21": 352.38,
+		"wealthpc21-22": -7.47
+	},
+	"160": {
+		"code": "sr",
+		"country": "Suriname",
+		"now": 3,
+		"now-pc": 4872.95,
+		"wealth21": 3,
+		"wealth21-22": 0.2,
+		"wealthpc21": 4872.95,
+		"wealthpc21-22": 284.71
+	},
+	"161": {
+		"code": "to",
+		"country": "Tonga",
+		"now": 3,
+		"now-pc": 28195.75,
+		"wealth21": 3,
+		"wealth21-22": 0,
+		"wealthpc21": 28195.75,
+		"wealthpc21-22": -240.93
+	},
+	"162": {
+		"code": "vu",
+		"country": "Vanuatu",
+		"now": 3,
+		"now-pc": 9291.52,
+		"wealth21": 3,
+		"wealth21-22": 0.2,
+		"wealthpc21": 9291.52,
+		"wealthpc21-22": 387.67
+	},
+	"163": {
+		"code": "cf",
+		"country": "Central African Republic",
+		"now": 2,
+		"now-pc": 363.62,
+		"wealth21": 2,
+		"wealth21-22": 0.2,
+		"wealthpc21": 363.62,
+		"wealthpc21-22": 25.21
+	},
+	"164": {
+		"code": "dj",
+		"country": "Djibouti",
+		"now": 2,
+		"now-pc": 1796.71,
+		"wealth21": 2,
+		"wealth21-22": 0.2,
+		"wealthpc21": 1796.71,
+		"wealthpc21-22": 152.7
+	},
+	"165": {
+		"code": "dm",
+		"country": "Dominica",
+		"now": 2,
+		"now-pc": 27548.21,
+		"wealth21": 2,
+		"wealth21-22": 0,
+		"wealthpc21": 27548.21,
+		"wealthpc21-22": -103.96
+	},
+	"166": {
+		"code": "gw",
+		"country": "Guinea-Bissau",
+		"now": 2,
+		"now-pc": 960.11,
+		"wealth21": 2,
+		"wealth21-22": 0.2,
+		"wealthpc21": 960.11,
+		"wealthpc21-22": 73.7
+	},
+	"167": {
+		"code": "ls",
+		"country": "Lesotho",
+		"now": 2,
+		"now-pc": 871.72,
+		"wealth21": 2,
+		"wealth21-22": 0,
+		"wealthpc21": 871.72,
+		"wealthpc21-22": -8.66
+	},
+	"168": {
+		"code": "ws",
+		"country": "Samoa",
+		"now": 2,
+		"now-pc": 9060.93,
+		"wealth21": 2,
+		"wealth21-22": 0.2,
+		"wealthpc21": 9060.93,
+		"wealthpc21-22": 758.92
+	},
+	"169": {
+		"code": "ag",
+		"country": "Antigua and Barbuda",
+		"now": 1,
+		"now-pc": 10696.56,
+		"wealth21": 1,
+		"wealth21-22": 0.2,
+		"wealthpc21": 10696.56,
+		"wealthpc21-22": 2064.24
+	},
+	"170": {
+		"code": "vc",
+		"country": "Saint Vincent",
+		"now": 1,
+		"now-pc": 9605.13,
+		"wealth21": 1,
+		"wealth21-22": 0,
+		"wealthpc21": 9605.13,
+		"wealthpc21-22": 30.26
+	},
+	"171": {
+		"code": "st",
+		"country": "Sao Tome and Principe",
+		"now": 0,
+		"now-pc": 0,
+		"wealth21": 0,
+		"wealth21-22": 0,
+		"wealthpc21": 0,
+		"wealthpc21-22": 0
+	}
+}
