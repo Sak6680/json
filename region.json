@@ -1,0 +1,213 @@
+{
+      "1": {
+         "code": "Africa (Region)",
+         "country": "Africa (Region)",
+         "now": 2738.576,
+         "gdp22": 2738.576,
+         "gdp22-23": 241.538,
+         "now-pc": 2064.732,
+         "gdppc22": 2064.732,
+         "gdppc22-23": 129.273
+         },
+      "2": {
+         "code": "Asia and Pacific",
+         "country": "Asia and Pacific",
+         "now": 36232.191,
+         "gdp22": 36232.191,
+         "gdp22-23": 2679.558,
+         "now-pc": 8334.902,
+         "gdppc22": 8334.902,
+         "gdppc22-23": 557.605
+         },
+      "3": {
+         "code": "Australia and New Zealand",
+         "country": "Australia and New Zealand",
+         "now": 1882.229,
+         "gdp22": 1882.229,
+         "gdp22-23": 85.258,
+         "now-pc": 60956.75,
+         "gdppc22": 60956.75,
+         "gdppc22-23": 2293.997
+         },
+      "7": {
+         "code": "East Asia",
+         "country": "East Asia",
+         "now": 25647.335,
+         "gdp22": 25647.335,
+         "gdp22-23": 1856.656,
+         "now-pc": 15792.39,
+         "gdppc22": 15792.39,
+         "gdppc22-23": 1148.242
+         },
+      "8": {
+         "code": "Eastern Europe",
+         "country": "Eastern Europe",
+         "now": 4078.272,
+         "gdp22": 4078.272,
+         "gdp22-23": 246.587,
+         "now-pc": 12896.81,
+         "gdppc22": 12896.81,
+         "gdppc22-23": 2846.726
+         },
+      "9": {
+         "code": "Europe",
+         "country": "Europe",
+         "now": 23850.287,
+         "gdp22": 23850.287,
+         "gdp22-23": -342.279,
+         "now-pc": 32174.53,
+         "gdppc22": 32174.53,
+         "gdppc22-23": 1354.742
+         },
+      "11": {
+         "code": "North Africa",
+         "country": "North Africa",
+         "now": 814.572,
+         "gdp22": 814.572,
+         "gdp22-23": 71.67,
+         "now-pc": 4040.461,
+         "gdppc22": 4040.461,
+         "gdppc22-23": 286.89
+         },
+      "12": {
+         "code": "North America",
+         "country": "North America",
+         "now": 26390.548,
+         "gdp22": 26390.548,
+         "gdp22-23": 2388.178,
+         "now-pc": 52518.18,
+         "gdppc22": 52518.18,
+         "gdppc22-23": 4474.71
+         },
+      "13": {
+         "code": "Pacific Islands",
+         "country": "Pacific Islands",
+         "now": 35.716,
+         "gdp22": 35.716,
+         "gdp22-23": 4.628,
+         "now-pc": 3160.284,
+         "gdppc22": 3160.284,
+         "gdppc22-23": 340.895
+         },
+      "14": {
+         "code": "South America",
+         "country": "South America",
+         "now": 3256.394,
+         "gdp22": 3256.394,
+         "gdp22-23": 516.19,
+         "now-pc": 7553.929,
+         "gdppc22": 7553.929,
+         "gdppc22-23": 1142.617
+         },
+      "15": {
+         "code": "South Asia",
+         "country": "South Asia",
+         "now": 4073.261,
+         "gdp22": 4073.261,
+         "gdp22-23": 353.922,
+         "now-pc": 2219.029,
+         "gdppc22": 2219.029,
+         "gdppc22-23": 166.423
+         },
+      "16": {
+         "code": "Southeast Asia",
+         "country": "Southeast Asia",
+         "now": 3349.919,
+         "gdp22": 3349.919,
+         "gdp22-23": 272.458,
+         "now-pc": 5017.924,
+         "gdppc22": 5017.924,
+         "gdppc22-23": 359.725
+         },
+      "17": {
+         "code": "Sub-Saharan Africa (Region)",
+         "country": "Sub-Saharan Africa (Region)",
+         "now": 1924.004,
+         "gdp22": 1924.004,
+         "gdp22-23": 169.869,
+         "now-pc": 1710.598,
+         "gdppc22": 1710.598,
+         "gdppc22-23": 104.639
+         },
+      "18": {
+         "code": "Western Europe",
+         "country": "Western Europe",
+         "now": 19772.015,
+         "gdp22": 19772.015,
+         "gdp22-23": -588.866,
+         "now-pc": 46516.36,
+         "gdppc22": 46516.36,
+         "gdppc22-23": -1529
+         },
+      "19": {
+         "code": "Western Hemisphere (Region)",
+         "country": "Western Hemisphere (Region)",
+         "now": 30126.108,
+         "gdp22": 30126.108,
+         "gdp22-23": 2962.411,
+         "now-pc": 29696.48,
+         "gdppc22": 29696.48,
+         "gdppc22-23": 2721.451
+         },
+      "20": {
+         "code": "ASEAN-5",
+         "country": "ASEAN-5",
+         "now": 2826.543,
+         "gdp22": 2826.543,
+         "gdp22-23": 247.173,
+         "now-pc": 4843.297,
+         "gdppc22": 4843.297,
+         "gdppc22-23": 374.302
+         },
+      "21": {
+         "code": "Euro area",
+         "country": "Euro area",
+         "now": 14558.638,
+         "gdp22": 14558.638,
+         "gdp22-23": -584.745,
+         "now-pc": 42499.4,
+         "gdppc22": 42499.4,
+         "gdppc22-23": -1794.44
+         },
+      "22": {
+         "code": "European Union",
+         "country": "European Union",
+         "now": 17165.427,
+         "gdp22": 17165.427,
+         "gdp22-23": -552.367,
+         "now-pc": 38585.03,
+         "gdppc22": 38585.03,
+         "gdppc22-23": -1309.28
+         },
+      "23": {
+         "code": "Latin America and the Caribbean",
+         "country": "Latin America and the Caribbean",
+         "now": 5033.221,
+         "gdp22": 5033.221,
+         "gdp22-23": 701.105,
+         "now-pc": 7852.916,
+         "gdppc22": 7852.916,
+         "gdppc22-23": 1025.797
+         },
+      "24": {
+         "code": "G7",
+         "country": "G7",
+         "now": 42426.06,
+         "gdp22": 42426.06,
+         "gdp22-23": 1114.72,
+         "now-pc": 55016.86,
+         "gdppc22": 55016.86,
+         "gdppc22-23": 1337.731
+         },
+      "27": {
+         "code": "World",
+         "country": "World",
+         "now": 97076.276,
+         "gdp22": 97076.276,
+         "gdp22-23": 4484.625,
+         "now-pc": 12616.28,
+         "gdppc22": 12616.28,
+         "gdppc22-23": 779.821
+         }
+      }
+      
