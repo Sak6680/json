@@ -593,7 +593,7 @@
 	"85": {
 		"2022": 11175767,
 		"code": "do",
-		"country": "Dominican Republic",
+		"country": "Dominican_Republic",
 		"now": 11175767,
 		"22-23": 106108
 	},
@@ -649,7 +649,7 @@
 	"93": {
 		"2022": 10048412,
 		"code": "pg",
-		"country": "Papua New Guinea",
+		"country": "Papua_New_Guinea",
 		"now": 10048412,
 		"22-23": 188413
 	},
@@ -677,7 +677,7 @@
 	"97": {
 		"2022": 9403261,
 		"code": "ae",
-		"country": "United Arab Emirates",
+		"country": "United_Arab_Emirates",
 		"now": 9403261,
 		"22-23": 75735
 	},
@@ -824,7 +824,7 @@
 	"118": {
 		"2022": 5500295,
 		"code": "cf",
-		"country": "Central African Republic",
+		"country": "Central_African_Republic",
 		"now": 5500295,
 		"22-23": 157697
 	},
@@ -950,7 +950,7 @@
 	"136": {
 		"2022": 3246045,
 		"code": "ba",
-		"country": "Bosnia and Herzegovina",
+		"country": "Bosnia_and_Herzegovina",
 		"now": 3246045,
 		"22-23": -25037
 	},
@@ -1041,7 +1041,7 @@
 	"149": {
 		"2022": 2098541,
 		"code": "mk",
-		"country": "North Macedonia",
+		"country": "North_Macedonia",
 		"now": 2098541,
 		"22-23": -9885
 	},
@@ -1069,14 +1069,14 @@
 	"153": {
 		"2022": 1655207,
 		"code": "gq",
-		"country": "Equatorial Guinea",
+		"country": "Equatorial_Guinea",
 		"now": 1655207,
 		"22-23": 39402
 	},
 	"154": {
 		"2022": 1528932,
 		"code": "tt",
-		"country": "Trinidad and Tobago",
+		"country": "Trinidad_and_Tobago",
 		"now": 1528932,
 		"22-23": 4225
 	},
@@ -1230,7 +1230,7 @@
 	"176": {
 		"2022": 447189,
 		"code": "bn",
-		"country": "Brunei Darussalam",
+		"country": "Brunei_Darussalam",
 		"now": 447189,
 		"22-23": 3625
 	},
@@ -1286,21 +1286,21 @@
 	"184": {
 		"2022": 304967,
 		"code": "pf",
-		"country": "French Polynesia",
+		"country": "French_Polynesia",
 		"now": 304967,
 		"22-23": 2624
 	},
 	"185": {
 		"2022": 300769,
 		"code": "gf",
-		"country": "French Guiana",
+		"country": "French_Guiana",
 		"now": 300769,
 		"22-23": 7576
 	},
 	"186": {
 		"2022": 288413,
 		"code": "nc",
-		"country": "New Caledonia",
+		"country": "New_Caledonia",
 		"now": 288413,
 		"22-23": 3075
 	},
@@ -1314,7 +1314,7 @@
 	"188": {
 		"2022": 225155,
 		"code": "st",
-		"country": "Sao Tome and Principe",
+		"country": "Sao_Tome_and_Principe",
 		"now": 225155,
 		"22-23": 4449
 	},
@@ -1370,7 +1370,7 @@
 	"196": {
 		"2022": 110273,
 		"code": "je",
-		"country": "Channel Islands",
+		"country": "Channel_Islands",
 		"now": 110273,
 		"22-23": 1011
 	},
@@ -1412,7 +1412,7 @@
 	"202": {
 		"2022": 93488,
 		"code": "ag",
-		"country": "Antigua and Barbuda",
+		"country": "Antigua_and_Barbuda",
 		"now": 93488,
 		"22-23": 550
 	},
@@ -1475,28 +1475,28 @@
 	"211": {
 		"2022": 49420,
 		"code": "mp",
-		"country": "Northern Mariana Islands",
+		"country": "Northern_Mariana_Islands",
 		"now": 49420,
 		"22-23": 262
 	},
 	"212": {
 		"2022": 47609,
 		"code": "kn",
-		"country": "Saint Kitts and Nevis",
+		"country": "Saint_Kitts_and_Nevis",
 		"now": 47609,
 		"22-23": 97
 	},
 	"213": {
 		"2022": 45529,
 		"code": "tc",
-		"country": "Turks and Caicos Islands",
+		"country": "Turks_and_Caicos_Islands",
 		"now": 45529,
 		"22-23": 347
 	},
 	"214": {
 		"2022": 44446,
 		"code": "as",
-		"country": "American Samoa",
+		"country": "American_Samoa",
 		"now": 44446,
 		"22-23": -347
 	},
@@ -1510,7 +1510,7 @@
 	"216": {
 		"2022": 41354,
 		"code": "mh",
-		"country": "Marshall Islands",
+		"country": "Marshall_Islands",
 		"now": 41354,
 		"22-23": 430
 	},
@@ -1552,7 +1552,7 @@
 	"222": {
 		"2022": 31184,
 		"code": "vg",
-		"country": "British Virgin Islands",
+		"country": "British_Virgin_Islands",
 		"now": 31184,
 		"22-23": 241
 	},
@@ -1594,7 +1594,7 @@
 	"228": {
 		"2022": 11613,
 		"code": "wf",
-		"country": "Wallis and Futuna",
+		"country": "Wallis_and_Futuna",
 		"now": 11613,
 		"22-23": -81
 	},
@@ -1608,14 +1608,14 @@
 	"230": {
 		"2022": 10955,
 		"code": "bl",
-		"country": "Saint Barthélemy",
+		"country": "Saint_Barthélemy",
 		"now": 10955,
 		"22-23": 24
 	},
 	"231": {
 		"2022": 5872,
 		"code": "pm",
-		"country": "St Pierre and Miquelon",
+		"country": "St_Pierre_and_Miquelon",
 		"now": 5872,
 		"22-23": -20
 	},
@@ -1636,7 +1636,7 @@
 	"234": {
 		"2022": 3771,
 		"code": "fk",
-		"country": "Falkland Islands",
+		"country": "Falkland_Islands",
 		"now": 3771,
 		"22-23": 17
 	},
