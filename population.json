@@ -145,7 +145,7 @@
 	"21": {
 		"2022": 67394305,
 		"code": "gb",
-		"country": "United Kingdom",
+		"country": "UK",
 		"now": 67394305,
 		"22-23": 229261
 	},
@@ -649,7 +649,7 @@
 	"93": {
 		"2022": 10048412,
 		"code": "pg",
-		"country": "Papua_New_Guinea",
+		"country": "Papua_N_Guinea",
 		"now": 10048412,
 		"22-23": 188413
 	},
@@ -677,7 +677,7 @@
 	"97": {
 		"2022": 9403261,
 		"code": "ae",
-		"country": "United_Arab_Emirates",
+		"country": "UAE",
 		"now": 9403261,
 		"22-23": 75735
 	},
@@ -824,7 +824,7 @@
 	"118": {
 		"2022": 5500295,
 		"code": "cf",
-		"country": "Central_African_Republic",
+		"country": "C_African_Republic",
 		"now": 5500295,
 		"22-23": 157697
 	},
@@ -950,7 +950,7 @@
 	"136": {
 		"2022": 3246045,
 		"code": "ba",
-		"country": "Bosnia_and_Herzegovina",
+		"country": "Bosnia Herzegovina",
 		"now": 3246045,
 		"22-23": -25037
 	},
@@ -1076,7 +1076,7 @@
 	"154": {
 		"2022": 1528932,
 		"code": "tt",
-		"country": "Trinidad_and_Tobago",
+		"country": "Trinidad Tobago",
 		"now": 1528932,
 		"22-23": 4225
 	},
@@ -1314,7 +1314,7 @@
 	"188": {
 		"2022": 225155,
 		"code": "st",
-		"country": "Sao_Tome_and_Principe",
+		"country": "SaoTomePrincipe",
 		"now": 225155,
 		"22-23": 4449
 	},
@@ -1412,7 +1412,7 @@
 	"202": {
 		"2022": 93488,
 		"code": "ag",
-		"country": "Antigua_and_Barbuda",
+		"country": "AntiguaBarbuda",
 		"now": 93488,
 		"22-23": 550
 	},
@@ -1489,7 +1489,7 @@
 	"213": {
 		"2022": 45529,
 		"code": "tc",
-		"country": "Turks_and_Caicos_Islands",
+		"country": "Turks_Caicos_Islands",
 		"now": 45529,
 		"22-23": 347
 	},
