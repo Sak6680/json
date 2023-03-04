@@ -1,51 +1,51 @@
 {
-	"1": {
-		"2022": 7907434047,
-		"code": "World2",
-		"country": "World",
-		"now": 7907434047,
-		"22-23": 67240393.08
-	},
-	"2": {
-		"2022": 4678054775,
-		"code": "Asia",
-		"country": "Asia",
-		"now": 4678054775,
-		"22-23": 39683577
-	},
-	"3": {
-		"2022": 1394428147,
-		"code": "Africa",
-		"country": "Africa",
-		"now": 1394428147,
-		"22-23": 32533952
-	},
-	"4": {
-		"2022": 742636026,
-		"code": "Europe",
-		"country": "Europe",
-		"now": 742636026,
-		"22-23": 453275
-	},
-	"5": {
-		"2022": 653962331,
-		"code": "Latin America and the Caribbean",
-		"country": "L_A_Caribbean",
-		"now": 653962331,
-		"22-23": 5841374	
-	},
-	"6": {
-		"2022": 374869647,
-		"code": "Northern America",
-		"country": "Northern America",
-		"now": 374869647,
-		"22-23": 2268683
-	},
-	"7": {
-		"2022": 44677813,
-		"code": "Oceania",
-		"country": "Oceania",
-		"now": 44677813,
-		"22-23": 549778	
-	}
+"1": {
+"2022": 7943032047,
+"code": "World2",
+"country": "World",
+"now": 7943032047,
+"22-23": 67240393.08
+},
+"2": {
+"2022": 4696054775,
+"code": "Asia",
+"country": "Asia",
+"now": 4696054775,
+"22-23": 39683577
+},
+"3": {
+"2022": 1411428147,
+"code": "Africa",
+"country": "Africa",
+"now": 1411428147,
+"22-23": 32533952
+},
+"4": {
+"2022": 742236026,
+"code": "Europe",
+"country": "Europe",
+"now": 742236026,
+"22-23": 453275
+},
+"5": {
+"2022": 656562331,
+"code": "Latin America and the Caribbean",
+"country": "L_A_Caribbean",
+"now": 656562331,
+"22-23": 5841374
+},
+"6": {
+"2022": 375469647,
+"code": "Northern America",
+"country": "Northern America",
+"now": 375349647,
+"22-23": 2268683
+},
+"7": {
+"2022": 44677813,
+"code": "Oceania",
+"country": "Oceania",
+"now": 44677813,
+"22-23": 549778
+}
 }
